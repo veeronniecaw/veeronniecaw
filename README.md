@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> My personal repositories are on Codeberg and other Forgejo instances (see below) and this account will not be used for personal projects.
+> My personal repositories are on Codeberg and other Forgejo instances (see below) and this account will not be used for personal projects. [Why?](https://sfconservancy.org/GiveUpGitHub/)
 
 # hello!!!!
 
