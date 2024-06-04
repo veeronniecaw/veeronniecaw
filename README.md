@@ -12,4 +12,4 @@ I upload my garbage code at:
   - blahaj.land: [veeronniecaw](https://git.blahaj.land/veeronniecaw)
   - my own instance: [veeronniecaw](https://git.veeronniecaw.space/)
  
-Also check out my [website](veeronniecaw.space)
+Also check out my [website](https://veeronniecaw.space)
