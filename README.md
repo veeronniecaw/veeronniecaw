@@ -7,9 +7,6 @@ Welcome to Ronnie Hounskul's github profile!
 
 I upload my garbage code at:
 - Codeberg: [veeronniecaw](https://codeberg.org/veeronniecaw)
-- Forgejo:
-  - git.gay: [veeronniecaw](https://git.gay/veeronniecaw)
-  - blahaj.land: [veeronniecaw](https://git.blahaj.land/veeronniecaw)
-  - my own instance: [veeronniecaw](https://git.veeronniecaw.space/)
- 
+- Sourcehut: [~veeronniecaw](https://git.sr.ht/~veeronniecaw/)
+- 
 Also check out my [website](https://veeronniecaw.space)
